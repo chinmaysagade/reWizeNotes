@@ -1,2 +1,2 @@
-[Readme](README.md). 
-[Philosophy](Philosohy.md)
+[Readme](README.md).   
+[Philosophy](Philosophy.md)
