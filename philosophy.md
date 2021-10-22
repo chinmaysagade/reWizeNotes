@@ -32,4 +32,23 @@ Logicians ask such questions as:
 What constitutes "good" or "bad" reasoning?  
 How do we determine whether a given piece of reasoning is good or bad?  
 
+### Forms of philosophy: 
+Sayings ,enigmas and paradoxes: Kabir, Tao te ching
+Dialogue: Gita
+Geometric: axioms, postulates: Starts from definitions and deduct theorems
+Ethics proven geometrically: Spinoza's ethics
+Polemics:attacks
+
+### Nihilism:
+Means nothing or not at all. Nihilist says life has no meaning.
+uncannas of the cosmos:we don't belong in the universe. The universe thwarts our efforts to understand it.
+
+### Why are you here ?
+Instrumental reasoning: Every point, the credits, the graduation, the job, the money are all instruments to the next moment. It's also called means-ends reasoning. So every single point is a means to the next end. I need to get my graduation in order to get the job. I get the three credits in order to graduate. Extrinsic Goods.
+
+
+Human Finitude: We are all about to die and we are in the process of dying.  We don't know when the bus is coming. Life is a euphemism for the process of dying.
+
+
+
 
