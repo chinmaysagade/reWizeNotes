@@ -27,3 +27,21 @@ Take 15 minutes at the end of your day to stop and reflect.
 It's easy to get on autopilot, but pausing to reflect on how you spend your time keeps the days from blurring together and helps you think positively about your life.
 - Pro Tip.  
 You can do it alone, by journaling or making lists. Or talk with your loved ones about your daily experiences and moments of gratitude.
+
+### See the Extraordinary in the Ordinary.   
+Find new meaning in something familiar by seeing it in a different light.
+- Why It Matters.  
+As physician and best-selling author Rachel Naomi Remen says, “often finding meaning is not about doing things differently; it's about seeing familiar things in new ways.”
+
+- Pro Tip.   
+Hike down a familiar path and stay alert to new sights and sounds. Setup a phone date with an old friend, and be as curious as if you were meeting them again for the first time.  
+
+### Be Grateful for the Small Stuff
+Give thanks for little things that brighten up your life.
+
+- Why It Matters.    
+It's easy to get upset over petty annoyances (mosquitoes, car alarms, spilled milk), while ignoring the tiny sources of joy right under our noses (free cookies, sunshine peeking through rain and clouds, your morning coffee). 
+
+- Pro Tip.    
+Above all, slow down. Feel as if you're strolling down a quiet street, not jetting by at an altitude of 30,000 feet. When you encounter the smell of cinnamon, a four leaf clover, or whatever it is that gives you joy, stop and say, "thanks!" 
+
