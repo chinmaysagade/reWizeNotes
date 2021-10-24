@@ -35,7 +35,8 @@ Philosophy rouses us from our native dogmatic slumber and wakes up from caked pr
 - Value Theory: Ethics and Aesthetics
 - Logic
 
-### Metaphysics: 
+### Metaphysics: (Beyond Physics).    
+Metaphysics is about things that do not change.
 study of the nature of reality, of what exists in the world, what it is like, and how it is ordered.  
 what is the nature of reality?  
 What kind of being am I? Do I have a soul ? What happens when we die ?  
