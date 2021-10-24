@@ -10,7 +10,22 @@ Philosophy comes out of existential questions:
 William James writes:   
 " Philosophy begining in wonder, as plato and aristotle said, is able to fancy everything different from what it is.  
 It sees the familier as if it was strange, as strange as if it was familier.   
-Philosophy rouses us from our native dogmatic slumber and wakes up from caked predejuices. "   
+Philosophy rouses us from our native dogmatic slumber and wakes up from caked predejuices. "     
+
+### History of Philosophy:   
+6th century BCE - Laozi - Tao Te Ching. 
+530 BCE -- Siddharth Gautama (Buddha)   
+470 BCE -- Socrates -- Concetps of justice, virtue and beauty.   
+400 BCE -- Bhagavad Gita.   
+400 BCE -- Plato.   
+335 BCE -- Aristotle.   
+1637 AD -- DeCartes.   
+1781 AD -- Immanuel Kant.   
+1867 AD -- Karl Marx. 
+1183 AD -- Friedrich Nietzsche. 
+
+
+
 
 
 
