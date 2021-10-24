@@ -1,6 +1,17 @@
 
 ### What is Philosophy ?  
 It is the academic study of anything. Love of wisdom.  
+Seeing things through fresh eyes, asking new questions is doing philosophy.  
+Philosophy comes out of existential questions:   
+- Who am I    
+- Why am I here   
+- Where do I come from.   
+  
+William James writes:   
+" Philosophy begining in wonder, as plato and aristotle said, is able to fancy everything different from what it is.  
+It sees the familier as if it was strange, as strange as if it was familier.   
+Philosophy rouses us from our native dogmatic slumber and wakes up from caked predejuices. "   
+
 
 
 ### Three main branches of philosophy:   
