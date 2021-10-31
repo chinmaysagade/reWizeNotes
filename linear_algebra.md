@@ -10,4 +10,4 @@ So, PCA is a method that:
 Measures how each variable is associated with one another using a Covariance matrix. 
 Understands the directions of the spread of our data using Eigenvectors. 
 Brings out the relative importance of these directions using Eigenvalues. 
-![alt text](pca.png)
+![alt text](images/pca.png)
