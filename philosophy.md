@@ -77,5 +77,15 @@ Instrumental reasoning: Every point, the credits, the graduation, the job, the m
 Human Finitude: We are all about to die and we are in the process of dying.  We don't know when the bus is coming. Life is a euphemism for the process of dying.
 
 
+### Subjective and Objective :  Thomas Nagel.   
+Meaning of life:    
+If one tries to look at his life objectively, he’ll see that it is meaningless. Hence it is absurd that humans are trying to find some meaning in their lives, when at the same time, they are capable of viewing it from an external perspective and that it is meaningless.    
+Still, it makes sense that I try to see meaning in my life because that’s how I usually live my life: From a personal, inner perspective. So it is indifferent that my life seems insignificant from an external point of view.   
+
+Free Will:    
+**Determinism** is a belief in philosophy that all events are determined by causes which have previously existed.    
+The author states that the problem with determinism is that it leaves no room for the actual acting.     
+From an external point of view, there’s only a chain of events. From a personal viewpoint, objectivity leaves out that it is my acting, no matter if it is deterministic or not. The person sees their actions as fundamentally different than other events that happen somehow.     
+
 
 
