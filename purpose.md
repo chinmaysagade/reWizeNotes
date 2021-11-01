@@ -45,6 +45,11 @@ It's easy to get upset over petty annoyances (mosquitoes, car alarms, spilled mi
 - Pro Tip.    
 Above all, slow down. Feel as if you're strolling down a quiet street, not jetting by at an altitude of 30,000 feet. When you encounter the smell of cinnamon, a four leaf clover, or whatever it is that gives you joy, stop and say, "thanks!" 
 
+### Be particularly afraid of things that provide a modest amount of joy.   
+The simple pleasures of life are no less dangerous than heroin.  
+Know this for certain… not all the food, wealth, and women of the world can appease the lust of a single man. Craving for sense-pleasures is not removed but aggravated by indulgence even as oil poured into fire increases it….One who aspires to peace and happiness should instantly renounce craving and seek instead that which neither grows old nor ceases — no matter how old the body may become.    
+
+
 ### Balance it your way.   
 Weigh the elements of your life in a way that makes sense to you . . . not to somebody else.    
 
