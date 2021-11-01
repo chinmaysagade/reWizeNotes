@@ -45,3 +45,22 @@ It's easy to get upset over petty annoyances (mosquitoes, car alarms, spilled mi
 - Pro Tip.    
 Above all, slow down. Feel as if you're strolling down a quiet street, not jetting by at an altitude of 30,000 feet. When you encounter the smell of cinnamon, a four leaf clover, or whatever it is that gives you joy, stop and say, "thanks!" 
 
+### Balance it your way.   
+Weigh the elements of your life in a way that makes sense to you . . . not to somebody else.    
+
+- Why It Matters.     
+Another person’s idea of balance might not be right for you — in fact, it might cause more harm than good. Trust you know best what balance looks — and feels — like for you.    
+
+- Pro Tip.    
+Juggling life's many elements is an ongoing project, and we need all the help we can get. So seek advice from people who matter to you, read books, make spreadsheets. But then take time to reflect on what's right for you.    
+
+###  Imagine Your Best Self, Then Be It.   
+Today, choose to be the kind of person you aspire to be in one specific way. Pick one best self trait and one way to be closer to it.    
+
+- Why It Matters.       
+We are who we choose to be — so be very careful who you choose to be.    
+
+- Pro Tip.    
+Are you who you want to be? Imagine picking the person you want to be. Consider the characteristics of this person when they're at their best. How can you incorporate more of these characteristics in your life?     
+
+
