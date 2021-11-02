@@ -44,10 +44,34 @@ Is there a God?
 Do people have free will ?  
 
 ### Epistemology: 
-Epistemology is the study of nature and scope knowledge. It is primarily concerned with what we can know about the world and how we can know it.   
-Do we know anything at all?  
-What is knowledge. 
-Can we claim something to be right. 
+Epistemology is the study of nature, origin and scope of knowledge. 
+"what it is you believe is true ? ".    
+What is knowledge ?  How to determine if someone knows something ?  
+Determine the extent of what we know:  how do we acquire knowledge, and what are limits to what can be known ?     
+Can we claim something to be right.    
+
+### Epistemology: Knowledge. 
+knowledge is a cognitive success.   
+Objects: knowing by acquiantance.   
+skills: procedural knowledge.(knowing -how).   
+facts: propositional knowledge.  knowing-that.  2+2=1 , cats are mammals etc.    
+
+### Epistemology: Knowledge.   
+According to kant: knowledge can be a priori (derived only by reason) or a posteriori (sense experience in addition to reason).     
+
+### Epistemology: Empiricists and Rationalists.   
+**Empiricists**:  All knowledge is ultimately grounded upon experience.    
+**Rationalists**: All knowledge is ultimately grounded upon reason.     
+
+### Epistemology: Propositional Knowledge.   
+Propositional knowledge has 3 core parts:   
+**Belief**: An acceptance that a statement is true or that something exists. Sky is blue
+**Truth**: The idea that one's beliefs are in accordance with reality or objective facts.   
+**Justification**:   why one has good reason for holding their beliefs.   
+**Justified True Beliefs (JTB) **  is full description of nature of knowledge.     
+Getter believed that luck can play a part in acquire knowledge.
+
+
 
 ### Value Theory: Ethics and Aesthetics. 
 1) How should I live ?  
