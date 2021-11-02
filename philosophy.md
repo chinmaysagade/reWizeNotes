@@ -71,6 +71,31 @@ Propositional knowledge has 3 core parts:
 **Justified True Beliefs (JTB) **  is full description of nature of knowledge.     
 Getter believed that luck can play a part in acquire knowledge.
 
+### Epistemology: Internalism vs Externalism.  
+Reliabilism:   
+Internalism: Justification depends on factors in one's mind.  
+
+### Epistemology skepticism :    
+the view that we cannot know anything, or atleast that we do not know as much as we think we do.   
+
+
+### Epistemology: Catersian skepticism :    
+we sometimes believe dream as if it's true. What if some devil is tricking us ?   
+
+
+### Epistemology: PUN   
+Nature is roughly uniform across time and space and thus the future will be roughly like the past (PUN).  
+Principal Of Uniformity (PUN).   
+PUN's proof is circular.    
+
+### Epistemology: Mitigated Skepticism
+We can never have 100% accurate knowledge of anything, but can have partial knowledge.  
+
+### Epistemology Bayesian Epistemology:    
+instead of having fixed beliefs, we keep updating probabilities.    
+Credences: A continuous phenimenon of degress of beliefs about something.   
+Priors: Credences we already have about reality before we begin to gather new evidence.   
+Knowledge:  a combination of new information that updates our credences.    
 
 
 ### Value Theory: Ethics and Aesthetics. 
