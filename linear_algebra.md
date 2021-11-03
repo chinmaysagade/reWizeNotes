@@ -3,7 +3,8 @@ Physicist: Something which has mangnitude and direction.
 Computer Science:  Ordered list of numbers (a record) (houses as 2-d vector of price and sq.footage).    
 Mathematician:   Anything which can be added and scaled according to vector laws.   
 
-In linear algebra: Vectors are always rooted at the origin.   
+In linear algebra: Vectors are always rooted at the origin. Origin is root of all vectors.      
+The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point like (2,3) .    
 
 ### Eigen Vector 
 Vector which when multiplied by the transformation matrix get's scaled by a constant factor.   
