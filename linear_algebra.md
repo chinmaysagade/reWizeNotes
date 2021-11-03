@@ -1,3 +1,10 @@
+### What is a vector:   
+Physicist: Something which has mangnitude and direction.  
+Computer Science:  Ordered list of numbers (a record) (houses as 2-d vector of price and sq.footage).    
+Mathematician:   Anything which can be added and scaled according to vector laws.   
+
+
+
 ### Eigen Vector 
 Vector which when multiplied by the transformation matrix get's scaled by a constant factor.   
 That constant factor is called as **Eigen value**.
