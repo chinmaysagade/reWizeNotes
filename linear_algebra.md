@@ -1,9 +1,9 @@
-### What is a vector:   
+### What is a Vector:   
 Physicist: Something which has mangnitude and direction.  
 Computer Science:  Ordered list of numbers (a record) (houses as 2-d vector of price and sq.footage).    
 Mathematician:   Anything which can be added and scaled according to vector laws.   
 
-
+In linear algebra: Vectors are always rooted at the origin.   
 
 ### Eigen Vector 
 Vector which when multiplied by the transformation matrix get's scaled by a constant factor.   
