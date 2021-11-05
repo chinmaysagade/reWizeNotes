@@ -4,7 +4,16 @@ Computer Science:  Ordered list of numbers (a record) (houses as 2-d vector of p
 Mathematician:   Anything which can be added and scaled according to vector laws.   
 
 In linear algebra: Vectors are always rooted at the origin. Origin is root of all vectors.      
-The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point like (2,3) .    
+The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point like (2,3) . 
+
+### Span of vectors:   
+Set of all possible points you can reach by any pair of vectors is called it's span.   
+OR.  
+Span is all possible linear combination of basis vectors.   
+
+### linearly dependent vectors:    
+Vectors which can be described as linear combinations of other vectors.   
+
 
 ### Eigen Vector 
 Vector which when multiplied by the transformation matrix get's scaled by a constant factor.   
