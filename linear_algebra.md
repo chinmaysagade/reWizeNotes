@@ -72,3 +72,8 @@ All vectors can be represented as linear combination of unit vectors.
 
 Superposition can be represented by a linear combination of states.   
 <img src="images/spinors.jpeg" width="400">
+
+### Vector Norm:   
+Norms are used to determine the magnitude or length of the vector.   
+The most common norm is the L^2 norm, which is the cartesian distance of the vector.   
+
