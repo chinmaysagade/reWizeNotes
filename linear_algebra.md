@@ -43,7 +43,18 @@ Brings out the relative importance of these directions using Eigenvalues.
 ### What is a Tensor:    
 Tensors are multi-indexed arrays of numbers, or functions, that transform according to certain rules under a change of coordinates.    
 Tensor Orders:   
-0-tensor: scalar.  
+0-tensor:  scalar.  
 1-tensor:  vector.   
 2-tensor:  matrix.  
-3-tensor:  a 3d cube of numbers.   
+3-tensor:  a 3d cube of numbers.      
+
+#### Vector Operations:    
+1) Addition:   can only be done on vectors with equal dimensions. Is associative as well as commutatitve.      
+2) Multiplication by scalar:   They scale the vector.   
+
+#### Linear Combination:    
+A linear combination of u and v is a vector au+bv where a and b are scalers.   
+All vectors can be represented as linear combination of unit vectors.   
+
+Superposition can be represented by a linear combination of states.   
+<img src="images/spinors.jpeg" width="400">
