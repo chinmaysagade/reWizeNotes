@@ -12,6 +12,11 @@ Mathematician:   Anything which can be added and scaled according to vector laws
 In linear algebra: Vectors are always rooted at the origin. Origin is root of all vectors.      
 The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point like (2,3) . 
 
+### Gradient as Vectors:    
+The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
+
+
+
 ### Span of vectors:   
 Set of all possible points you can reach by any pair of vectors is called it's span.   
 OR.  
