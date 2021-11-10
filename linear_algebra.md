@@ -98,5 +98,12 @@ L1 norm (lasso regression) : prefers B to be either large or exactly 0, leading 
 Performance of  model on the test data would always peak after a few epochs and would then start degrading, i.e. our model would quickly start to overfit to the training data. Overfitting happens in every single machine learning problem.
 
 
+### Algebraic aspects of dot product:   
+||u|| = u.u.    
+(au) . v = a(u.v).   
+u.v = v.u.   
+(u+v).w = u.w + v.w.   
+
+
 
 
