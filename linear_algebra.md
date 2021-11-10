@@ -22,11 +22,13 @@ think of scalar as one-dimensional vector, so the function can take in a scalar 
 example:   
 f(a,b) =  (a+b, a-b), so that.  f(-2,1) = (-2+1, -2-1) = (-1,-3).  
 
-**Dot or Scalar Product:**   
+Dot or Scalar Product:  v.w  
 The dot product is a vector-valued function that takes two vectors and yields a scalar.    
 In real vector spaces, multiply the corresponding entries in each vector and then add the product to get the scalar value.    
 x^Ty = dot(x,y) = xoyo+x1y1+.....+xnyn.    
 
+If the dot product is zero, the vectors are orthogonal.     
+In real space, dot product is commutative.   
 
 
 ### Span of vectors:   
