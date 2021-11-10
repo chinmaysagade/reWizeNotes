@@ -77,10 +77,13 @@ Superposition can be represented by a linear combination of states.
 Norms are used to determine the magnitude or length of the vector.   
 The most common norm is the L^2 norm, which is the cartesian distance of the vector.    
 L^1 : Manhattan distance.    
-L^2 : Euclidean    
+L^2 : Euclidean (pythagorean).    
 
 A norm is a vector valued function that gives us some sense of the magnitude of a vector. It can also allow us to compare two or more vectors.   
 
-|| x ||_p  :=   ( Ei:1:n |x_i|^p ) ^1/p
-
 <img src="images/norm.png" width="400">
+
+L2 norm is the dot product with itself !!!   
+
+
+
