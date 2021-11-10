@@ -104,6 +104,7 @@ Performance of  model on the test data would always peak after a few epochs and 
 u.v = v.u.   
 (u+v).w = u.w + v.w.   
 
-
-
+Geometric View: Law of cosines:     
+|| v - u ||^2 = || v ||^2 - 2 ||v||.||u|| cos \theta + || u || ^2.    
+v.u= ||v|| ||u|| cos \theta
 
