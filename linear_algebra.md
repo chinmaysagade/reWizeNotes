@@ -38,7 +38,7 @@ So, PCA is a method that:
 Measures how each variable is associated with one another using a Covariance matrix. 
 Understands the directions of the spread of our data using Eigenvectors. 
 Brings out the relative importance of these directions using Eigenvalues. 
-![alt text](images/pca.png)
+<img src="images/pca.png" width="400">
 
 ### What is a Tensor:    
 Tensors are multi-indexed arrays of numbers, or functions, that transform according to certain rules under a change of coordinates.    
