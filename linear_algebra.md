@@ -39,3 +39,11 @@ Measures how each variable is associated with one another using a Covariance mat
 Understands the directions of the spread of our data using Eigenvectors. 
 Brings out the relative importance of these directions using Eigenvalues. 
 ![alt text](images/pca.png)
+
+### What is a Tensor:    
+Tensors are multi-indexed arrays of numbers, or functions, that transform according to certain rules under a change of coordinates.    
+Tensor Orders:   
+0-tensor: scalar.  
+1-tensor:  vector.   
+2-tensor:  matrix.  
+3-tensor:  a 3d cube of numbers.   
