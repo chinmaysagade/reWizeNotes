@@ -1,3 +1,9 @@
+### Sets of Interest in Linear Algebra.   
+Z : Set of integers : -1,0,1,2,3,4     
+Q : Quotient: Set of rational numbers:  1/2 , 3/4. -5/2.   
+R : Set of real numbers :  e, pi, 1, ,2 , 4.5, \sqrt(2).     
+C:  Set of complex numbers    
+
 ### What is a Vector:   
 Physicist: Something which has mangnitude and direction.  
 Computer Science:  Ordered list of numbers (a record) (houses as 2-d vector of price and sq.footage).    
