@@ -77,13 +77,26 @@ Superposition can be represented by a linear combination of states.
 Norms are used to determine the magnitude or length of the vector.   
 The most common norm is the L^2 norm, which is the cartesian distance of the vector.    
 L^1 : Manhattan distance.    
-L^2 : Euclidean (pythagorean).    
+L^2 : Euclidean (pythagorean).   
 
 A norm is a vector valued function that gives us some sense of the magnitude of a vector. It can also allow us to compare two or more vectors.   
 
 <img src="images/norm.png" width="400">
 
 L2 norm is the dot product with itself !!!   
+
+L1 norm :  [u1 u2]  = |u1| + |u2|.  
+
+L1 norm is always greater than L2 norm.   
+
+Both L1 and L2 can be used to improve results in machine learning. L1 and L2 regularization.    
+
+### L1 and L2 regularization:  
+L1 and L2 norm regularization encourages "simple" solutions.  Add burden to convergence process and avoid overfitting.
+L2 norm (ridge regression) : penalizes B that are far from the origin in the Euclidean space.=, leading to many small values. No single affects the output very much.    
+L1 norm (lasso regression) : prefers B to be either large or exactly 0, leading to sparse solutions (many zeros). Only a few features have any impact.  
+Performance of  model on the test data would always peak after a few epochs and would then start degrading, i.e. our model would quickly start to overfit to the training data. Overfitting happens in every single machine learning problem.
+
 
 
 
