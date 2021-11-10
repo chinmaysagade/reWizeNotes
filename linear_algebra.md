@@ -20,7 +20,14 @@ The gradient of a vector valued function f:R^n to R is the vector of the partial
 Functions of one or more numbers or vectors to an ouput vector.    
 think of scalar as one-dimensional vector, so the function can take in a scalar as well.    
 example:   
-f(a,b) =  (a+b, a-b), so that.  f(-2,1) = (-2+1, -2-1) = (-1,3)
+f(a,b) =  (a+b, a-b), so that.  f(-2,1) = (-2+1, -2-1) = (-1,-3).  
+
+**Dot or Scalar Product:**   
+The dot product is a vector-valued function that takes two vectors and yields a scalar.    
+In real vector spaces, multiply the corresponding entries in each vector and then add the product to get the scalar value.    
+x^Ty = dot(x,y) = xoyo+x1y1+.....+xnyn.    
+
+
 
 ### Span of vectors:   
 Set of all possible points you can reach by any pair of vectors is called it's span.   
