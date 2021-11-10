@@ -14,7 +14,7 @@ The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point 
 
 ### Gradient as Vectors:    
 The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
-<img src="images/slide_7.jpeg" width="200">
+<img src="images/slide_7.jpeg" width="400">
 
 
 ### Span of vectors:   
