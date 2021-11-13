@@ -114,3 +114,25 @@ Geometric View: Law of cosines:
 || v - u ||^2 = || v ||^2 - 2 ||v||.||u|| cos \theta + || u || ^2.    
 v.u= ||v|| ||u|| cos \theta
 
+
+### Matrix:    
+A matrix is a rectangular array of numbers, symbols or expressions, arranged in rows and columns.  
+Items in column vector were called components , whereas items in matrix are called elements.   
+Denoted by mxn , where m is rows.   
+Matrix can be viewed as built up of vectors as columns.   
+
+Matrix Addition:
+Need to be of same dimension.   
+
+Special Matrices:    
+Zero Matrix.  
+Identity Matrix. 
+Symmetric :  if transpose and matrix are same :  A = A^T
+
+Transpose of a matrix:    
+Just flip the indices ,  a^T (i,j). = a (j,i)      
+
+### Matrix multiplication:    
+
+
+
