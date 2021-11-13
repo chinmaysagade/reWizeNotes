@@ -68,4 +68,9 @@ We are who we choose to be — so be very careful who you choose to be.
 - Pro Tip.    
 Are you who you want to be? Imagine picking the person you want to be. Consider the characteristics of this person when they're at their best. How can you incorporate more of these characteristics in your life?     
 
+###  Neurophysiology of sense of meaning.   
+The feeling of meaning is an instinct. It's not a thought.   
+You find thin edge where you are competent is doing what you do but you also push yourself. That is where meaning lies.   
+It's a consequence of right balance between negative emotions like anxiety and pain that protect you from harm and exploratory play systems that drive you forward.
+
 
