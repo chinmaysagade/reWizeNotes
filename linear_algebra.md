@@ -16,6 +16,11 @@ The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point 
 The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
 <img src="images/slide_7.jpeg" width="400">
 
+
+### Support of a Vector:    
+support of a vector is the number of non-zero elements in that vector.    
+
+
 ### Vector valued functions:   
 Functions of one or more numbers or vectors to an ouput vector.    
 think of scalar as one-dimensional vector, so the function can take in a scalar as well.    
