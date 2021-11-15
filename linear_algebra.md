@@ -12,6 +12,13 @@ Mathematician:   Anything which can be added and scaled according to vector laws
 In linear algebra: Vectors are always rooted at the origin. Origin is root of all vectors.      
 The coordinates are written vertically [ 2/3 ]  to avoid confusing with a point like (2,3) . 
 
+### Linear and Affine Vectors and Transformations:
+When we are discussing linear algebra, we are strictly in the domain where vectors are rooted at origing and the transformations are not translating the vectors from origin. Those vectors and transformations are affine, a superset of linear transformations.     
+For instance, y = mx+b is not a linear transformaiton since   
+Transforming first and then adding:  y(x1+x2) =  m(x1)++b+m(x2)+b = m(x1+x2)+2b .   
+Adding first and then transforming:  y(x1+x2) =  m(x1+x2)+b.   
+
+
 ### Gradient as Vectors:    
 The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
 <img src="images/slide_7.jpeg" width="400">
