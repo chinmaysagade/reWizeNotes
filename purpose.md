@@ -73,4 +73,7 @@ The feeling of meaning is an instinct. It's not a thought.
 You find thin edge where you are competent is doing what you do but you also push yourself. That is where meaning lies.   
 It's a consequence of right balance between negative emotions like anxiety and pain that protect you from harm and exploratory play systems that drive you forward.
 
+### Tie motivation to internal stimili.  
+Using externa motivation to start changes is okay, like a training wheel, but after sometime, the wheels have to come off and if not tied to internal stimuli , then it's destined for failure.    
+
 
