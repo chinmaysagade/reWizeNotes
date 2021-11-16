@@ -142,9 +142,41 @@ Identity Matrix.
 Symmetric :  if transpose and matrix are same :  A = A^T
 
 Transpose of a matrix:    
-Just flip the indices ,  a^T (i,j). = a (j,i)      
+Just flip the indices ,  a^T (i,j). = a (j,i)         
+
+###  Non Square Matrices: 
+linear transformation between vector spaces of different dimensions.
+
 
 ### Matrix multiplication:    
+TBD 
+
+### Determinant. 
+Are scalar quantity associated with every Square matrix (which keeps the dimension on vector space constant).   
+Is a vector function which encodes algebraic and geometric information.    
+
+Algebraic Information:    
+det(A) == 0 mean columns of A are linearly dependent, A is not invertible, the null space of A is non-trivial.     
+det(AB) = det(a)det(B).  
+det(A+B) != det(A)+det(B). 
+det(A^T) = det(A). 
+det(A^-1) = 1/ det(A).    
+
+Geometric Information:    
+They can be thought of as directed volume of a unit parallelepiped after the linear transformation.  
+The sign pf the determinant is positive iff the linear transformation preserves orientation.  
+
+
+### Rank of a Matrix :    
+Rank of a matrix is number of linear independent column vectors in the matrix.   
+
+### How To build a Vector Space:    
+
+Cartesian Products of Sets:   Set of ordered pairs of element of S and T.  
+   S x T = { (s,t) :s E S and t E T }. 
+
+
+
 
 
 
