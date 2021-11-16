@@ -21,7 +21,7 @@ Adding first and then transforming:  y(x1+x2) =  m(x1+x2)+b.
 
 ### Gradient as Vectors:    
 The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
-<img src="https://github.com/chinmaysagade/reWizeNotes/tree/main/images/slide_7.jpeg" width="400">
+<img src="images/slide_7.jpeg" width="400">
 
 
 ### Support of a Vector:    
