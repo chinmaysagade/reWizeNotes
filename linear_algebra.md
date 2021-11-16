@@ -175,8 +175,27 @@ Rank of a matrix is number of linear independent column vectors in the matrix.
 Cartesian Products of Sets:   Set of ordered pairs of element of S and T.  
    S x T = { (s,t) :s E S and t E T }. 
 
-
-
+-----------------------------------------------------------------------------------------------------|
+|                                                                                                    | 
+|   Vector Space: An abelian group equipped with a field action                                      |
+|                                                                                                    |
+-------------------------------------------------------------------------------------------------    |
+| Field: A commutative ring with a multiplicative inverse of each non-zero element of the ring.      |
+|                                                                                                    |    
+---------------------------------------------------------------------------------------------------- |
+| Ring: An abeliean Group with another operation(typically multiplication) that is assoc, had        | 
+|  identify and is distributive                                                                      |
+|                                                                                                    |    
+---------------------------------------------------------------------------------------------------- |
+| Abeliean Group: a group with a commutativity of the operation                                      |
+|                                                                                                    |
+-----------------------------------------------------------------------------------------------------|
+| Group -- A set with an operation that meets 4 conditions (closure,assoc, identity, inverse)        |
+| The operation is typically addition                                                                |                
+|                                                                                                    |    
+-----------------------------------------------------------------------------------------------------|
+| Set - Collection of unique objects (unordered)                                                     |
+|----------------------------------------------------------------------------------------------------|
 
 
 
