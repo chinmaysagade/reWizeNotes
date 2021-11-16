@@ -78,11 +78,15 @@ Tensor Orders:
 0-tensor:  scalar.  
 1-tensor:  vector.   
 2-tensor:  matrix.  
-3-tensor:  a 3d cube of numbers.      
+3-tensor:  a 3d cube of numbers.
 
+Delete this
+<img src="images/norm.png" width="400">
 #### Vector Operations:    
 1) Addition:   can only be done on vectors with equal dimensions. Is associative as well as commutatitve.      
 2) Multiplication by scalar:   They scale the vector.   
+Delete this
+<img src="images/norm.png" width="400">
 
 #### Linear Combination:    
 A linear combination of u and v is a vector au+bv where a and b are scalers.   
