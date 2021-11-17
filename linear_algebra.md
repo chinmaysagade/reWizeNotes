@@ -21,20 +21,16 @@ Adding first and then transforming:  y(x1+x2) =  m(x1+x2)+b.
 
 ### Gradient as Vectors:    
 The gradient of a vector valued function f:R^n to R is the vector of the partial derivatives of f:  
-![alt text](https://github.com/chinmaysagade/reWizeNotes/tree/main/images/slide_7.jpeg)
 
 ### Support of a Vector:    
 support of a vector is the number of non-zero elements in that vector.    
-delete this:
-![alt text](https://github.com/chinmaysagade/reWizeNotes/tree/main/images/slide_7.jpeg)
 
 ### Vector valued functions:   
 Functions of one or more numbers or vectors to an ouput vector.    
 think of scalar as one-dimensional vector, so the function can take in a scalar as well.    
 example:   
 f(a,b) =  (a+b, a-b), so that.  f(-2,1) = (-2+1, -2-1) = (-1,-3).  
-delete this:
-![alt text](https://github.com/chinmaysagade/reWizeNotes/tree/main/images/slide_7.jpeg)
+
 ### Dot or Scalar Product:  v.w  
 The dot product is a vector-valued function that takes two vectors and yields a scalar.    
 In real vector spaces, multiply the corresponding entries in each vector and then add the product to get the scalar value.    
@@ -81,8 +77,6 @@ Tensor Orders:
 2-tensor:  matrix.  
 3-tensor:  a 3d cube of numbers.
 
-Delete this
-<img src="images/norm.png" width="400">
 #### Vector Operations:    
 1) Addition:   can only be done on vectors with equal dimensions. Is associative as well as commutatitve.      
 2) Multiplication by scalar:   They scale the vector.   
