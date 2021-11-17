@@ -81,14 +81,14 @@ Tensor Orders:
 1) Addition:   can only be done on vectors with equal dimensions. Is associative as well as commutatitve.      
 2) Multiplication by scalar:   They scale the vector.   
 Delete this
-<img src="images/norm.png" width="400">
+<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png" width="400">
 
 #### Linear Combination:    
 A linear combination of u and v is a vector au+bv where a and b are scalers.   
 All vectors can be represented as linear combination of unit vectors.   
 
 Superposition can be represented by a linear combination of states.   
-<img src="images/spinors.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/spinors.jpeg" width="400">
 
 ### Vector Norm:   
 Norms are used to determine the magnitude or length of the vector.   
@@ -98,7 +98,7 @@ L^2 : Euclidean (pythagorean).
 
 A norm is a vector valued function that gives us some sense of the magnitude of a vector. It can also allow us to compare two or more vectors.   
 
-<img src="images/norm.png" width="400">
+<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png" width="400">
 
 L2 norm is the dot product with itself !!!   
 
