@@ -1,2 +1,2 @@
 ### img1
-![alt text](images/norm.png)
+![alt text](https://github.com/chinmaysagade/reWizeNotes/tree/main/images/norm.png)
