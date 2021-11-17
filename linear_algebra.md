@@ -95,7 +95,7 @@ L^2 : Euclidean (pythagorean).
 
 A norm is a vector valued function that gives us some sense of the magnitude of a vector. It can also allow us to compare two or more vectors.   
 
-![alt text](https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png)
+![alt text](https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png)   
 L2 norm is the dot product with itself !!!   
 
 L1 norm :  [u1 u2]  = |u1| + |u2|.  
@@ -168,7 +168,7 @@ Rank of a matrix is number of linear independent column vectors in the matrix.
 ### How To build a Vector Space:    
 
 Cartesian Products of Sets:   Set of ordered pairs of element of S and T.  
-   S x T = { (s,t) :s E S and t E T }. 
+   S x T = { (s,t) :s E S and t E T }.   
 
 |----------------------------------------------------------------------------------------------------|
 |                                                                                                    | 
