@@ -67,7 +67,7 @@ So, PCA is a method that:
 Measures how each variable is associated with one another using a Covariance matrix. 
 Understands the directions of the spread of our data using Eigenvectors. 
 Brings out the relative importance of these directions using Eigenvalues. 
-<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/pca.png" width="400">
+![alt text](https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/pca.png)
 
 ### What is a Tensor:    
 Tensors are multi-indexed arrays of numbers, or functions, that transform according to certain rules under a change of coordinates.    
@@ -80,16 +80,13 @@ Tensor Orders:
 #### Vector Operations:    
 1) Addition:   can only be done on vectors with equal dimensions. Is associative as well as commutatitve.      
 2) Multiplication by scalar:   They scale the vector.   
-Delete this
-<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png" width="400">
 
 #### Linear Combination:    
 A linear combination of u and v is a vector au+bv where a and b are scalers.   
 All vectors can be represented as linear combination of unit vectors.   
 
 Superposition can be represented by a linear combination of states.   
-<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/spinors.jpeg" width="400">
-
+![alt text](https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/spinors.jpeg)
 ### Vector Norm:   
 Norms are used to determine the magnitude or length of the vector.   
 The most common norm is the L^2 norm, which is the cartesian distance of the vector.    
@@ -98,8 +95,7 @@ L^2 : Euclidean (pythagorean).
 
 A norm is a vector valued function that gives us some sense of the magnitude of a vector. It can also allow us to compare two or more vectors.   
 
-<img src="https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png" width="400">
-
+![alt text](https://raw.githubusercontent.com/chinmaysagade/reWizeNotes/main/images/norm.png)
 L2 norm is the dot product with itself !!!   
 
 L1 norm :  [u1 u2]  = |u1| + |u2|.  
