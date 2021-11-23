@@ -147,5 +147,6 @@ Protagoras on Relativism:
 Truth is what one guy makes it.  
 Question:  Everyone is right, then what about someone who thinks everyone is wrong? 
 
-
+### Socratic questioning:   
+Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes, including: to explore complex ideas, to get to the truth of things, to open up issues and problems, to uncover assumptions, to analyze concepts, to distinguish what we know from what we do not know, to follow out logical consequences of thought or to control discussions. 
 
