@@ -137,4 +137,15 @@ The author states that the problem with determinism is that it leaves no room fo
 From an external point of view, there’s only a chain of events. From a personal viewpoint, objectivity leaves out that it is my acting, no matter if it is deterministic or not. The person sees their actions as fundamentally different than other events that happen somehow.     
 
 
+### Relativism:   
+Family of philosophical views which deny claims to objectivity within a particular domain and assert that facts in that domain are relative to the perspective of an observer or the context in which they are assessed.     
+Moral: Several philosophical positions concerned with the differences in moral judgments across different peoples and their own particular cultures.   
+Nothing is good in itself, it's only right because person or society says it is.
+Epistemic:Epistemic relativism is the view that what is true, rational, or justified for one person need not be true, rational, or justified for another person.  
+Factual: Relativism argues that truth itself is relative.          
+Protagoras on Relativism:   
+Truth is what one guy makes it.  
+Question:  Everyone is right, then what about someone who thinks everyone is wrong? 
+
+
 
