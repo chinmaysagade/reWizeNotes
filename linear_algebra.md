@@ -184,6 +184,24 @@ Once a basis is picked, every vector is represented by a tuple of coordinates.
 - The F^n vector space is isomorphic to the original vector space, which often misleads us to think that vectors are just tuples of scalars (numbers).   
 - The mapping of the vectors to it's coordinate tuples is called an isomorphism. There are many such mappings, one for each basis of the vector space.   
 
+### Change of basis (Basis Transformation) and coordinate transformations:   
+Let's consider two bases {ai} and {bj} in the same vector space.   
+v = v^i a_i  = v^jb_j.  
+The vectors b_j of the second basis too have coordinates in the first base a_i. Let's call them T{i,j}.   
+Therefore,  b_j = T{i,j} a_i.  
+T can be written as matrix as well.    
+Conversly, the vectors in a_i have coordinates in b_j. Therefore,   
+a_i = T{j,i} b_j.  
+T{j,i}T{i,j} = delta {j,i}, where delta {j,i} = 1 if i==j, else 0.  
+Also,. the two matrices T{j,i} and T{i,j} are each others inverse.   
+v = v_ia_i =  v_jb_j.    
+v = v_ia_i = v_jT{i,j}a_i   
+Therefore,   v_i = T{i,j}v_j
+Basis vectors and coordinates transforms inversely to each other.   
+This is why   
+- coordinates have upper indices, and they transform contravariant to the basis vectors.  
+- Basis vectors have lower indices, and are called covariant.   
+
 
 
 
