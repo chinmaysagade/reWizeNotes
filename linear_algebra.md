@@ -193,4 +193,12 @@ Cartesian Products of Sets:   Set of ordered pairs of element of S and T.
 |----------------------------------------------------------------------------------------------------|
 
 
+### Isomorphism -- Coordinate tuples vs F^n Vectos.   
+Once a basis is picked, every vector is represented by a tuple of coordinates.   
+- The tuples are elements of F^n, the cartesian product space of the scalar field. Also, F^n is a vector space in itself.   
+- The F^n vector space is isomorphic to the original vector space, which often misleads us to think that vectors are just tuples of scalars (numbers).   
+- The mapping of the vectors to it's coordinate tuples is called an isomorphism. There are many such mappings, one for each basis of the vector space.   
+
+
+
 
