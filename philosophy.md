@@ -148,5 +148,27 @@ Truth is what one guy makes it.
 Question:  Everyone is right, then what about someone who thinks everyone is wrong? 
 
 ### Socratic questioning:   
-Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes, including: to explore complex ideas, to get to the truth of things, to open up issues and problems, to uncover assumptions, to analyze concepts, to distinguish what we know from what we do not know, to follow out logical consequences of thought or to control discussions. 
+Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes, including: to explore complex ideas, to get to the truth of things, to open up issues and problems, to uncover assumptions, to analyze concepts, to distinguish what we know from what we do not know, to follow out logical consequences of thought or to control discussions.      
+The overall purpose of Socratic questioning, is to challenge accuracy and completeness of thinking in a way that acts to move people towards their ultimate goal.   
+Conceptual clarification questions:  
+Think more about what exactly they are asking or thinking about. Prove the concepts behind their argument. Use basic 'tell me more' questions that get them to go deeper.      
+- Why are you saying that?   
+- What exactly does this mean?   
+- Can you give me an example?     
+
+Probing assumptions:    
+- What would happen if ... ?    
+- You seem to be assuming ... ?     
+
+Probing rationale, reasons and evidence:     
+- Why is that happening?     
+- What do you think causes ... ?   
+- What evidence is there to support what you are saying?    
+
+Probe implications and consequences:    
+- Then what would happen?   
+- What are the consequences of that assumption?   
+- Why is ... important?
+- What is the best ... ? Why?    
+
 
