@@ -202,6 +202,23 @@ This is why
 - coordinates have upper indices, and they transform contravariant to the basis vectors.  
 - Basis vectors have lower indices, and are called covariant.   
 
+### Scalar Product and Metric Tensor.   
+The scalar product is a map from the vector space to the it's scalar field.  
+v.w = a E F    
+Linear property: 
+(av).w = a(v.w). 
+(v+u).w = v.w + u.w. 
+commutative property:  v.w = w.v  
+regular:  for all v !=0 , there exists w: v.w !=0.  
+
+v.w = (v_ie_i). (w_je_j) 
+applying linearity:  
+v.w = v_iw_j(e_i.e_j).  
+The scalar products of the basis vectors are just numbers. We call them g:   
+g{i,j} = e_i . e_j. 
+then 
+v.w = v_iw_jg{i,j}. 
+For a given basis, g{i,j} fully define the scalar product in the vector space; they are the coordinates of the bilinear map that is the scalar product.  
 
 
 
