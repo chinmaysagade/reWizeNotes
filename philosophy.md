@@ -171,4 +171,8 @@ Probe implications and consequences:
 - Why is ... important?
 - What is the best ... ? Why?    
 
-
+### Hellenistic period.   
+The Hellenistic period spans the period of Mediterranean history between the death of Alexander the Great in 323 BC and the emergence of the Roman Empire.   
+The period of Greece prior to the Hellenistic era is known as Classical Greece, while the period afterwards is known as Roman Greece.      
+The term "Hellenistic" refers to that which is influenced by Greek culture, in this case, the East after the conquests of Alexander the Great.  
+It is often considered a period of transition, sometimes even of decadence or degeneration, compared to the enlightenment of the Greek Classical era. The Hellenistic period saw the rise of New Comedy, Alexandrian poetry, the Septuagint, and the philosophies of Stoicism, Epicureanism, and Pyrrhonism. Greek science was advanced by the works of the mathematician Euclid and the polymath Archimedes. 
