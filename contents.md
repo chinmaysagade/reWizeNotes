@@ -1,5 +1,5 @@
 [Philosophy](philosophy.md)   
 [Purpose](purpose.md)      
 [Math](math.md)   
-[LinearALgebra](linear_algebra.md)
+[LinearALgebra](linear_algebra.md)   
 [Inner Engineering](inner_engg.md)
