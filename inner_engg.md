@@ -23,16 +23,44 @@ Nature of human existence: to need more. There is something within you which doe
 Desire is driving all the small/big decisions in your life. What you desire is a social phenomenon (influenced by the social atmosphere). The content of the desire is not important since it's in reaction to society. 
 
 ### Bondage : Desires
-The energy that you call desire is no different that the energy you call life.If you get rid of all of your desires, there will be no drive to do anything.Desires arose naturally in the body. no desire = no life. 
+The energy that you call desire is no different that the energy you call life.If you get rid of all of your desires, there will be no drive to do anything.Desires arose naturally in the body. no desire = no life.    
+Not desiring anything is a great desire, which will always remain unfulfilled.
 
 ### Bondage : Misery
 Basis of all misery is unfulfilled desire. Life is not happening the way you think it should happen. And the way you think it should happen changes everyday.
 
 ### Bondage : Desires
-People coming out of restaurants seem happier than those coming out of temples. 
+People coming out of restaurants seem happier than those coming out of temples.    
+Don't look at the object of desire, but the process of desire. The process of desire drives you to a boundless state. It's not for more, but for all. If it had a limit, it could have been settled. 
+
 
 ### Bondage : Suffering
 Fear of suffering keeps you away from achieving great things. 
+
+### Bondage : Detatchment
+ That you are not involved in, you cannot touch it. If you want to detach from life, jumping into the ocean is the most effective method. Krishna showed absolute involvement in his life, not detachment. It's not easy to detach from something you care about.
+Detaching is avoiding life. The only way to live life is to be involved deeply.
+
+### Bondage : Boundless
+There is something within you which tries to be boundless all the time.    
+
+### Bondage : Compulsive Reaction
+The Compulsive state of action can only bring misery.Thought and emotion are physiological reality, not an existential reality.  
+Words do not harm you, your reaction to them makes you suffer.     
+You want your mind to be liberated from misery, rather than controlled.   
+Desire happening compulsively is a problem, if it happens consciously, it's the most wonderful thing.   
+
+### Living : Anger
+When you get angry  you suffer more than your victim. Anger, hatred, jealousy is literal poison. And if you drink poison, you die.
+
+### Living : Liveness
+walk around like a stone between people you don't know. Putting restrictions on ability to respond kills live-ness.
+
+### Living : Responsibility. 
+Being able to act requires a lot of different things. But being responsible only requires willingness. The moment you feel you are not responsible, you loose the sense of belongingness. Actions are limited, but responsibility is not limited.   
+
+
+
 
 
 
