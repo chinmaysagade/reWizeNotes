@@ -124,3 +124,6 @@ If you don't agree with the rules of the game, you are not involved. if you are 
 #### Create what you want.   
 pay attention to creation and you cannot get bored. you only get bored when you are stuck in your own mnd.
 
+#### Karma.   
+Karma is about becoming the source of one's own creation.In shifting responsibility from heaven to oneself, one becomes the very maker of one's destiny.
+
