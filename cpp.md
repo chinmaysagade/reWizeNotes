@@ -1,6 +1,7 @@
 
 ### Pointers
-In Present day compilers every pointer takes 8 bytes. 
+In Present day compilers every pointer takes 8 bytes.   
+A program can only access code section or the stack section of memory. But with pointers, it can keep the address in stack and refer to heap section of the memory.
 
 ### Pointers: declartion, initialised and dereferencing
 int x=10; is a data variable.   
