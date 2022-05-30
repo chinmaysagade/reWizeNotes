@@ -9,3 +9,8 @@ int *p=&x; p is a pointer and will be pointing on x. p is declared and initialis
 int y = *p;    
 float *p2;    
 struct Test *p5;   
+
+### Pointers: Stack vs Heap
+Dynamic memory is created in Heap using pointers.   
+Heap memory can be accessed from anywhere in the program, if its address is available.   
+int A[5] = {0} --- Will be created on stack !   
