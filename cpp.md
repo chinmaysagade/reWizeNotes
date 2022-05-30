@@ -32,4 +32,9 @@ std::string s = "hello";
 s.length()
 s.clear()
 s.size() // size and length is same
+s.append()
+s.insert(3,'kk')
+s.replace(3,5,'aa')
+s1.swap(s2)
+
 
