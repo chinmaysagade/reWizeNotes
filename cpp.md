@@ -29,12 +29,12 @@ char *S = "Hello";  // Will be created in heap. warning: ISO C++11 does not allo
 cin.getline(s, 20) ; //Read 20 characters from keyboard to string s
 #### String Class:
 std::string s = "hello";    
-s.length()
-s.clear()
-s.size() // size and length is same
-s.append()
-s.insert(3,'kk')
-s.replace(3,5,'aa')
-s1.swap(s2)
-
+s.length(). 
+s.clear(). 
+s.size() // size and length is same  
+s.append().   
+s.insert(3,'kk').   
+s.replace(3,5,'aa')    
+s1.swap(s2). 
+  
 
