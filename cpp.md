@@ -14,3 +14,5 @@ struct Test *p5;
 Dynamic memory is created in Heap using pointers.   
 Heap memory can be accessed from anywhere in the program, if its address is available.   
 int A[5] = {0} --- Will be created on stack !   
+int *h;
+h = new int[5]; -- with new, array is created in heap. Since its in heap, you need to collect it in pointer.
