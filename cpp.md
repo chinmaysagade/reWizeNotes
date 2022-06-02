@@ -5,9 +5,9 @@ A program can only access code section or the stack section of memory. But with 
 
 ### Pointers: declartion, initialised and dereferencing
 int x=10; is a data variable.   
-int *p=&x; p is a pointer and will be pointing on x. p is declared and initialised.   
+int* p=&x; p is a pointer and will be pointing on x. p is declared and initialised.   
 int y = *p;    
-float *p2;    
+float* p2;    
 struct Test *p5;   
 
 ### Pointers: Stack vs Heap
@@ -24,7 +24,7 @@ char x = 'A';
 char s1[10] = "Hello";  
 char s2[] = "hello";   // Will be created in stack. 
 char s3[]={'h','e','l','l','\0'}; // will not be a string unless string delimiter \0 is declared. 
-char *S = "Hello";  // Will be created in heap. warning: ISO C++11 does not allow conversion from string literal to 'char *'.   
+char* S = "Hello";  // Will be created in heap. warning: ISO C++11 does not allow conversion from string literal to 'char *'.   
 
 cin.getline(s, 20) ; //Read 20 characters from keyboard to string s
 #### String Class:
