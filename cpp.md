@@ -37,4 +37,9 @@ s.insert(3,'kk').
 s.replace(3,5,'aa')    
 s1.swap(s2). 
   
-
+#### Arrays with pointers
+No explicit out of bounds exception occur while using arrays.    
+int* arr = new int[]{10,20,30,40,50,60};    
+for (int i=0;i<10;i++){.  
+   std::cout<<"arr element:" << *(arr+i)  <<  "\n";   
+ }.  
