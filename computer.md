@@ -6,7 +6,9 @@ Can also be represented as |a-b|.
 The XOR logic gate can be used as a one-bit adder that adds any two bits together to output one bit.   
 ### Bus:
 Group of bits that are manipulated together is called as a bus.
-### HDL:  Hardware Description Language.  
+### HDL:  Hardware Description Language.    
+An HDL program consists of an interface and an implementation. The interface consists of the chip's API documentation, chip name, and names of its input and output pins. The implementation consists of the statements below the PARTS keyword.    
+
   CHIP Or {  
     IN a, b;  
     OUT out;  
