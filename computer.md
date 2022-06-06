@@ -20,16 +20,19 @@ An HDL program consists of an interface and an implementation. The interface con
 } 
   
 #### Commonly used Gates:   
+Elementary:   
 - Not
 - And
 - Or
 - Xor
 - Mux
-- Dmux
+- Dmux  
+16 Bit Variants:   
 - Not16
 - And16
 - Or16
-- Mux16
+- Mux16  
+Multi-Way variants:  
 - Or8Way
 - Mux4Way16
 - Mux8Way16
