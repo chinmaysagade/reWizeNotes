@@ -1,3 +1,7 @@
+### DeMorgan's Law:   
+not (A or B) = (not A) and (not B).   
+not (A and B) = (not A) or (not B).  
+
 ### Boolean Logic:
 Any boolean operation can be constructed by using only the NAND gate.      
 NAND(x,x) = NOT(x). 
@@ -46,4 +50,5 @@ Can be implemented using And, Or and Not gates.
     
 A demultiplexer channels an input to a or b depending on weather the selector pin is on or off.The rest of the pins gets 0.   
 if (sel == 0), a = 1 else b = 1.    
+Inverse of multiplexer.   
 
