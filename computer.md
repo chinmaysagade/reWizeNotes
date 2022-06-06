@@ -38,3 +38,12 @@ Multi-Way variants:
 - Mux8Way16
 - DMux4Way
 - DMux8Way
+
+#### Multiplexer (Mux) and Demultiplexer (DeMux) 
+Multiplexer selects an input a or b depending on weather the selector pin in on or off.   
+if (sel == 0), out = a else b.   
+Can be implemented using And, Or and Not gates.  
+    
+A demultiplexer channels an input to a or b depending on weather the selector pin is on or off.The rest of the pins gets 0.   
+if (sel == 0), a = 1 else b = 1.    
+
