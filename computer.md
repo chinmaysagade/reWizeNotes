@@ -52,3 +52,11 @@ A demultiplexer channels an input to a or b depending on weather the selector pi
 if (sel == 0), a = 1 else b = 1.    
 Inverse of multiplexer.   
 
+#### Binary Numbers:    
+If N bits, we can represent 2^N possibilities
+With 1 Bit: 2 possibilities : 0 and 1.  
+With 2 Bits: 4 possibilities: 00, 01 , 10, 11.  
+With 3 Bits: 8 possibilities: 000,001,010,.....,111    
+Binary to decimal:   $\sum {b_i} 2^i $.   
+Decimal to Binary:  Keep on findind multiples of 2 and add them up until it becomes the target number.    
+87 = 64+16+4+2+1 = 1010111.  
