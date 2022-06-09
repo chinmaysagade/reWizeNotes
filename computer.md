@@ -21,7 +21,14 @@ Decimal to Binary:  Keep on findind multiples of 2 and add them up until it beco
 
 #### Negative Numbers in binary:
 Two's complement represent a negative number using positive number: 2^n-x.   
-For example, in 4 bit integers, -5 will be represented as 2^4 - 5 = 11.  This prevents issues with alternative implementations using MSB as sign.It will have -0 as one of the value.   
+For example, in 4 bit integers, -5 will be represented as 2^4 - 5 = 11.  This prevents issues with alternative implementations using MSB as sign.It will have -0 as one of the value.     
+Addition in 2's complement is free.  
+-2 + -3 ==> (16-2)+(16-3) = 14 + 13 = 1110+1101 = 1011 = -5 .   
+Computing -x:   
+complement = 2^n - x = 1+ (2^n -1) -x    
+2^n-1 is always 1111..1 (n times) .111.11 - x is just flipping 0's and 1's.     
+Finally, for adding 1, start from left flipping numbers until first 0 is found. Which can be flipped to 1 and rest remains same.   
+-4 = 8-4 = 4 = 0100 = 1011+1 = 1100 (12).  
 
 
 
