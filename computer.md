@@ -93,7 +93,8 @@ A 16 bit computer has registers with 16bits.
 RAM can be defined as sequence of n addressable registers, with addreessed of 0 to n-1.RAM is a sequential chip.     
 At any given time, only 1 of the registers in RAM is selected. The number of bits in adress selection bus is therefore log n.
 The number of input lines to the register is called the word width (w).Width is the amount of data a single register holds.   
-
+To read RAM we set the address of the address of the selected register. The out of the RAM unit emits state of the selected register.This is how we read one out of millions of registers.  
+Irrespective of RAM size, every register can be accessed at the same time!!
 
 
 
