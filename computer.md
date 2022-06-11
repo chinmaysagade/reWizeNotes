@@ -96,6 +96,11 @@ The number of input lines to the register is called the word width (w).Width is 
 To read RAM we set the address of the address of the selected register. The out of the RAM unit emits state of the selected register.This is how we read one out of millions of registers.  
 Irrespective of RAM size, every register can be accessed at the same time!!
 
+#### Counters:  
+Used to keep track of which instruction should be fetched and executed next.
+This control mechanism is realized by Program Counter.    
+The counter supports three primitive operations: Reset, Next, GoTo. 
+
 
 
 
