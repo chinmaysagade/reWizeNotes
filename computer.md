@@ -76,3 +76,14 @@ A demultiplexer channels an input to a or b depending on weather the selector pi
 if (sel == 0), a = 1 else b = 1.    
 Inverse of multiplexer.   
 
+#### Combinational Logic:
+Combinational logic (also referred to as time-independent logic or combinatorial logic) is a type of digital logic which is implemented by Boolean circuits, where the output is a pure function of the present input only. Ex. ALU.     
+out[t] = f(in[t])    
+In Sequential logic, the output is dependent on input of previous time unit.   
+out[t] = f(in[t-1])    
+
+### Flip-Flops. 
+In building memory circuits, the components have to remember one bit of information from time t-1, and at the end of time, can can toggle between two states: 0 or 1. Hence they are called Flip-Flops.A D flip flop can be made from NAND gates.   
+
+
+
