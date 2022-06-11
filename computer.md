@@ -84,6 +84,17 @@ out[t] = f(in[t-1])
 
 ### Flip-Flops. 
 In building memory circuits, the components have to remember one bit of information from time t-1, and at the end of time, can can toggle between two states: 0 or 1. Hence they are called Flip-Flops.A D flip flop can be made from NAND gates.   
+A 1-bit register can remember an input but "forever", until requested to load a new value.   
+Bit(in,load, out).  if load(t-1)==1:out[t] = in[t-1].   
+
+#### Memory Registers:   
+Array of 1-bit registers. The width is the number of registers in the array.   
+A 16 bit computer has registers with 16bits.
+
+
+
+
+
 
 
 
