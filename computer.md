@@ -90,6 +90,9 @@ Bit(in,load, out).  if load(t-1)==1:out[t] = in[t-1].
 #### Memory Registers:   
 Array of 1-bit registers. The width is the number of registers in the array.   
 A 16 bit computer has registers with 16bits.
+RAM can be defined as sequence of n addressable registers, with addreessed of 0 to n-1.RAM is a sequential chip.     
+At any given time, only 1 of the registers in RAM is selected. The number of bits in adress selection bus is therefore log n.
+The number of input lines to the register is called the word width (w).Width is the amount of data a single register holds.   
 
 
 
