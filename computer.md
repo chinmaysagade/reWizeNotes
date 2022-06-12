@@ -102,6 +102,23 @@ This control mechanism is realized by Program Counter.
 The counter supports three primitive operations: Reset, Next, GoTo. 
 
 
+#### CPU Registers.  
+CPU contains a few, fast registers. Their number and functions are central part of the machine language.   
+Data Registers: Used for storing data, like ints and floats.    
+Address Registers:  Store address of main memory which operation wants to access.   
+Store R1, @A1 : store contens of R1 into address specified by A.  
+Addressing Modes:   
+Register: Add R1, R2.  
+Direct: Add R1, M[200]. 
+Indirect: Add, @A
+Immediate: Add 73, R1    
+
+### Flow control:   
+Most of the times, CPU executes the instructions sequentially.  
+Unconditional Jump: Used to jump to another location, e.g in for loop. 
+
+
+
 
 
 
