@@ -9,6 +9,12 @@ XOR(x,y) = 1 when number of true inputs is odd.
 Can also be represented as |a-b|.    
 The XOR logic gate can be used as a one-bit adder that adds any two bits together to output one bit.   
 
+### Number conversion:  
+A regular decimal number is the sum of the digits multiplied with power of 10.  
+137 = 1×10^2+3×10^1+7×10^0 = 100+30+7.   
+Hex numbers are read the same way, but each digit counts power of 16 instead of power of 10.   
+3B = 3×16^1 + 11×16^0 = 48 + 11 = 59.    
+3B = 00111011.   
 
 #### Binary Numbers:    
 If N bits, we can represent 2^N possibilities
@@ -122,6 +128,33 @@ Immediate: Add 73, R1
 ### Flow control:   
 Most of the times, CPU executes the instructions sequentially.  
 Unconditional Jump: Used to jump to another location, e.g in for loop. 
+
+### PIC10F200 Microcontroller:   
+- 33 single-word instructions, each instruction is 12 bit wide.
+- example instruction: 0001 0000 0010
+- 2 level deep hardware stack
+- 8 bit wide data bus
+- direct, indirect and relative addressing
+- 8 special hardware registers
+- 4MHZ internal clock
+- 16bytes RAM
+
+### PIC10F200 Microcontroller TRIS register:   
+
+TRIS : 8 bit tri-state register to configure the corresponding bit as i/p or o/p.  
+A 0 in the bit indicates o/p mode, 1 indicates i/p mode.    
+The pin names in the data sheets are actually the names of port bits. The pins are typically grouped in 8 and have their corresponding registers.  
+For example: RA0, RA1...RAx have TRISA.  
+
+### PIC10F200 Microcontroller WREG register: 
+The 8 bit WREG register is the most widely used register in the PIC micro-controllers. WREG stands for working register, as there is only one. The WREG register is the same as the accumulator in other microprocessors. The WREG register is used for all arithmetic and logic instructions.   
+
+
+### PIC10F200 Microcontroller assembly commands:
+MOVLW 05h ## Move Literal to Working Register   
+MOVWF 010h ## Move value to file register
+
+
 
 
 
