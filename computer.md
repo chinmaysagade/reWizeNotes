@@ -30,7 +30,13 @@ complement = 2^n - x = 1+ (2^n -1) -x
 Finally, for adding 1, start from left flipping numbers until first 0 is found. Which can be flipped to 1 and rest remains same.   
 -4 = 8-4 = 4 = 0100 = 1011+1 = 1100 (12).  
 
-
+#### Bitwise Operators:  
+ LEFT SHIFT: << :: makes numbers bigger by shifting their bits to higher places.  
+ Eg: N<<i (N: first operand, i: second operand).  
+ Takes two numbers, left shifts the bits of the first operand, the second operand decides the number of places to shift. Or in other words left shifting an integer “x” with an integer “y” denoted as ‘(x<<y)’ is equivalent to multiplying x with 2^y (2 raised to power y).    
+Example 1: Shift 7 by 1 bit assuming 4 bit:  7=> 0111 << 1 => 1110 => 14 (dec).  
+Example 2: Shift 1 by 3 bits = 0001 => 1000  
+Example 2: Shift 1 by 7 bits = 00000001 => 10000000
 
 ### Bus:
 Group of bits that are manipulated together is called as a bus.
