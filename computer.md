@@ -147,13 +147,19 @@ The pin names in the data sheets are actually the names of port bits. The pins a
 For example: RA0, RA1...RAx have TRISA.  
 
 ### PIC10F200 Microcontroller WREG register: 
-The 8 bit WREG register is the most widely used register in the PIC micro-controllers. WREG stands for working register, as there is only one. The WREG register is the same as the accumulator in other microprocessors. The WREG register is used for all arithmetic and logic instructions.   
+The 8 bit WREG register is the most widely used register in the PIC micro-controllers. WREG stands for working register, as there is only one. The WREG register is the same as the accumulator in other microprocessors. The WREG register is used for all arithmetic and logic instructions.    
+
+### PIC10F200 Microcontroller file register: 
+The PIC microcontroller has many other registers in addition to the WREG register. They are called data memory space to distinguish them from program (code) memory space. The data memory space in PIC is a read/write (Static RAM) memory. In the PIC microcontroller literature, the data memory is also called the file register.     
+The Special Function Register (SFRs) are dedicated to specific functions such as ALU status, timers, serial communication, I/O ports, ADC and so on.  
+The general purpose registers are a group of RAM locations in the file register that are used for data storage and scratch pad. Each location is 8 bits wide and can be used to store any data we want as long as it is 8 bit. 
 
 
 ### PIC10F200 Microcontroller assembly commands:
 MOVLW 05h ## Move Literal to Working Register   
-MOVWF 010h ## Move value to file register
-
+MOVWF 010h ## Move value to file register.  
+ADDLW 34H. ## add value 34 to W (W = W + 34)
+DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the result of the decrement is stored back to the file register, and if the second operator is W then the result is stored to the W register.     
 
 
 
