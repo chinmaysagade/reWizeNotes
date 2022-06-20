@@ -171,6 +171,10 @@ CONFIG CP = OFF    ; Code Protect (Code protection off).
 CONFIG MCLRE = OFF ; Master Clear Enable (MCLR disabled, GP3 enabled).   
     
 PSECT MyCode,class=CODE,delta=2   
+i EQU 13h   
+; Constants “i” is set t0 0x10. This gives names to specific unnamed general purpose register.  
+; It’s difficult to remember what is stored in register 0x10 if the program is big,   
+; but, by this directive, we know that 0x10 is called “i”   
 
 INIT:   
     MOVLW 2h; Move 2h to Working Register.   
@@ -185,7 +189,7 @@ INIT:
     BCF 11h, 2  ; Set 3rd bit (starts with 0) of register to 0    
     ; Resigter 11h : 00000000    
     MOVLW 3h<<2; Shift 3h(00000011) by 2 => 00001100 => 12.   
-    MOVWF 13h; Store 12 into register at 13h.   
+    MOVWF i; Store 12 into register at 13h.   
     ; Resigter 13h : 00001100.   
     TRIS GPIO; set the contents of TRIS register as 00001100.   
     BSF 15h, 2  ; Set 3rd bit (starts with 0) of register to 1.   
@@ -193,11 +197,12 @@ INIT:
  
 Loop:    ; Loop until contents of 13h becomes zero, i.e 13 times.   
     NOP 
-    DECFSZ 13h,F     
+    DECFSZ i,F     
     GOTO Loop     
     
     MOVLW 10h; Store 10h at register 14h.   
-    MOVWF 14h; END INIT;     
+    MOVWF 14h;   
+    END INIT;       
 
 
 
