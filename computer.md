@@ -163,12 +163,12 @@ DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the r
 
 
 ### PIC10F200 Microcontroller assembly sample:
-#include <xc.inc>   
+#include <xc.inc>     
     
-CONFIG WDTE = OFF  ; Watchdog Timer (WDT disabled). 
-; WDT restarts the main controller if it is hanged. 
-CONFIG CP = OFF    ; Code Protect (Code protection off). 
-CONFIG MCLRE = OFF ; Master Clear Enable (MCLR disabled, GP3 enabled). 
+CONFIG WDTE = OFF  ; Watchdog Timer (WDT disabled).   
+; WDT restarts the main controller if it is hanged.   
+CONFIG CP = OFF    ; Code Protect (Code protection off).   
+CONFIG MCLRE = OFF ; Master Clear Enable (MCLR disabled, GP3 enabled).   
     
 PSECT MyCode,class=CODE,delta=2   
 
