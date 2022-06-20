@@ -158,8 +158,46 @@ The general purpose registers are a group of RAM locations in the file register 
 ### PIC10F200 Microcontroller assembly commands:
 MOVLW 05h ## Move Literal to Working Register   
 MOVWF 010h ## Move value to file register.  
-ADDLW 34H. ## add value 34 to W (W = W + 34)
+ADDWF 10h, 1 ## add the value in WREG with 10h and store the value in 10h register.
 DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the result of the decrement is stored back to the file register, and if the second operator is W then the result is stored to the W register.     
+
+
+### PIC10F200 Microcontroller assembly sample:
+#include <xc.inc>
+    
+CONFIG WDTE = OFF  ; Watchdog Timer (WDT disabled)
+; WDT restarts the main controller if it is hanged
+CONFIG CP = OFF    ; Code Protect (Code protection off)
+CONFIG MCLRE = OFF ; Master Clear Enable (MCLR disabled, GP3 enabled)
+    
+PSECT MyCode,class=CODE,delta=2
+
+INIT:
+    MOVLW 2h; Move 2h to Working Register
+    MOVWF 10h; Move 2 to register 10h (register number 16)
+    ; Resigter 10h => 00000010 (2)
+    MOVLW 5h; Move 5h to Working Register
+    ADDWF 10h, 1; Add contents of WREG to contents at 10h and store it back on register 10h 
+    ; Resigter 10h => 00000111 (7)
+    MOVLW 1h<<2; Shift 1 by 2 bits and store it in WREG; 00000100
+    MOVWF 11h; Store the shifted contents back on register at 11h
+    ; Resigter 11h : 00000100
+    BCF 11h, 2  ; Set 3rd bit (starts with 0) of register to 0
+    ; Resigter 11h : 00000000
+    MOVLW 3h<<2; Shift 3h(00000011) by 2 => 00001100 => 12
+    MOVWF 13h; Store 12 into register at 13h
+    ; Resigter 13h : 00001100
+    TRIS GPIO; set the contents of TRIS register as 00001100
+    BSF 15h, 2  ; Set 3rd bit (starts with 0) of register to 1
+    ; Resigter 15h : 00000100
+ 
+Loop:    ; Loop until contents of 13h becomes zero, i.e 13 times
+    NOP
+    DECFSZ 13h,F 
+    GOTO Loop
+    
+    MOVLW 10h; Store 10h at register 14h
+    MOVWF 14h; END INIT;
 
 
 
