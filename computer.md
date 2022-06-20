@@ -161,7 +161,8 @@ MOVWF 010h ## Move value to file register.
 ADDWF 10h, 1 ## add the value in WREG with 10h and store the value in 10h register.
 DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the result of the decrement is stored back to the file register, and if the second operator is W then the result is stored to the W register.      
 CLRF 010h; Clear file register.     
-SUBWF: SUBtract W from File register.   
+SUBWF: SUBtract W from File register.     
+GOTO $ + 2   : $ means current program counter.  
 
 
 ### PIC10F200 Microcontroller assembly sample:
