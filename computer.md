@@ -172,7 +172,9 @@ DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the r
 CLRF 010h; Clear file register.     
 SUBWF: SUBtract W from File register.     
 GOTO $ + 2   : $ means current program counter.     
-RETLW : Return from subroutine with Literal in word register.    
+RETLW : Return from subroutine with Literal in word register.     
+NOP:  No operation instruction gives enough time to consistently latch the output pin before reading it for the next instruction.     
+
 
 ##### PIC10F200 Microcontroller assembly: CALL vs GOTO
 The invocation of the CALL instruction saves the current PC state to the stack, and after finishing the subroutine implementation the PC will be restored from the stack by a special instruction we will consider later. This allows you to keep executing the program from the line that follows the CALL instruction. If you use the GOTO instruction, the PC is not saved in the stack, so you can’t return to the address from which you called GOTO instruction
