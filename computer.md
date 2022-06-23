@@ -171,7 +171,8 @@ ADDWF 10h, 1 ## add the value in WREG with 10h and store the value in 10h regist
 DECFSZ 010h,F  ## Decrement f, Skip if 0. If the second operand is F, then the result of the decrement is stored back to the file register, and if the second operator is W then the result is stored to the W register.      
 CLRF 010h; Clear file register.     
 SUBWF: SUBtract W from File register.     
-GOTO $ + 2   : $ means current program counter.  
+GOTO $ + 2   : $ means current program counter.     
+RETLW : Return from subroutine with Literal in word register.    
 
 ##### PIC10F200 Microcontroller assembly: CALL vs GOTO
 The invocation of the CALL instruction saves the current PC state to the stack, and after finishing the subroutine implementation the PC will be restored from the stack by a special instruction we will consider later. This allows you to keep executing the program from the line that follows the CALL instruction. If you use the GOTO instruction, the PC is not saved in the stack, so you can’t return to the address from which you called GOTO instruction
