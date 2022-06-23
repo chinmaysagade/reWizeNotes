@@ -144,7 +144,14 @@ Unconditional Jump: Used to jump to another location, e.g in for loop.
 TRIS : 8 bit tri-state register to configure the corresponding bit as i/p or o/p.  
 A 0 in the bit indicates o/p mode, 1 indicates i/p mode.    
 The pin names in the data sheets are actually the names of port bits. The pins are typically grouped in 8 and have their corresponding registers.  
-For example: RA0, RA1...RAx have TRISA.  
+For example: RA0, RA1...RAx have TRISA. 
+
+### PIC10F200 Microcontroller OPTION register:  
+The TRIS register only works for setting the GPIO only pins. The GP2 pin can also set to be used for interfacing with external clock.   
+Hence, inorder to use this pin as GPIO, we need to clear the TOCS bit (bit 5) using OPTION register.     
+MOVLW  ~(1<<T0CS)      ;Enable GPIO2.   
+OPTION    
+
 
 ### PIC10F200 Microcontroller WREG register: 
 The 8 bit WREG register is the most widely used register in the PIC micro-controllers. WREG stands for working register, as there is only one. The WREG register is the same as the accumulator in other microprocessors. The WREG register is used for all arithmetic and logic instructions.    
