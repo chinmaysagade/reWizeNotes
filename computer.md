@@ -151,6 +151,8 @@ The TRIS register only works for setting the GPIO only pins. The GP2 pin can als
 Hence, inorder to use this pin as GPIO, we need to clear the TOCS bit (bit 5) using OPTION register.     
 MOVLW  ~(1<<T0CS)      ;Enable GPIO2.   
 OPTION    
+Pins which can have alternative functions, such as counter inputs, are configured to implement multiple functions. So, if you want to just use the LED display or the buttons, you will have to check data sheet to see what pins are used by which module and disable all these modules. Fortunately, the PIC10F200 is so primitive that only GP2 has an alternate function by default, while all other pins are GPIO by default. On large microcontrollers, this can be a pain.     
+
 
 
 ### PIC10F200 Microcontroller WREG register: 
