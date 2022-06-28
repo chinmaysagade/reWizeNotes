@@ -6,4 +6,5 @@ Press G (grab) to relocate.
 Press R to rotate.   
 Press S to scale.    
 Pair the operations with x,y or z key to constraint the transformation in that direction.   
+Pressing the x,y or z key twice will perform the transformation in local space.   
 Pressing left click during the transformation aborts it.     
