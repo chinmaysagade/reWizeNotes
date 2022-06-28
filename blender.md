@@ -1,7 +1,8 @@
 #### Blender Baiscs Transform:  
 Default dimensions of a cube is 2m X 2m X 2m. Each square is 1m^2.      
 Numpad 3 brings right orthographic view and 1 bring front orthographic. Moving objects in this mode helps with alignment.     
-Shift + Rt.Click moves the scene center where new objects are added, else it will be always in the center.   
+Shift + Rt.Click moves the scene center where new objects are added, else it will be always in the center.      
+Crtl+J joins multiple primitive objects.   
 Mesh is any solid object in blender.     
 Shift+A brings up the add menu.    
 Basic transforms: Location, Rotation and Scaling.    
