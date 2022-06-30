@@ -21,5 +21,7 @@ Selection mode: vertex, edges and faces let's you select different modes.
 Holding Alt let's you select vertex/edges/faces in loop.       
 Holding Alt+Shift let's you select multiple loops.    
 Holding Ctrl uses shortest path tool.   
+Turning on proportional editing (o) let's you transform set of points more organically.   
+
 
 
