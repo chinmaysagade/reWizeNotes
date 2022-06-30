@@ -20,5 +20,6 @@ A mesh is made up of vertices, faces and edges, which can be edited using edit m
 Selection mode: vertex, edges and faces let's you select different modes.      
 Holding Alt let's you select vertex/edges/faces in loop.       
 Holding Alt+Shift let's you select multiple loops.    
+Holding Ctrl uses shortest path tool.   
 
 
