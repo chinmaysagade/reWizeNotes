@@ -24,4 +24,3 @@ Holding Ctrl uses shortest path tool.
 Turning on proportional editing (o) let's you transform set of points more organically.   
 
 
-
