@@ -27,7 +27,8 @@ Turning on proportional editing (o) let's you transform set of points more organ
 Done in modelling mode.   
 Extend any face using extrude (e).    
 During extrusion, you can scale the extrusions.    
-To cencel a extrusion so that there are no duplicates, either ctrl-z or merge duplicates.   
+To cencel a extrusion so that there are no duplicates, either ctrl-z or merge duplicates (select all by A, then press m and then merge by distance).     
+
 
 
 
