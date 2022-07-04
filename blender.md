@@ -26,6 +26,7 @@ Turning on proportional editing (o) let's you transform set of points more organ
 #### Blender Baiscs Transform Mesh Editing:   
 Done in modelling mode.   
 Extend any face using extrude (e).    
+During extrusion, you can scale the extrusions.    
 To cencel a extrusion so that there are no duplicates, either ctrl-z or merge duplicates.   
 
 
